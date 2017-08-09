@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="RemberCell">
+            <rect key="frame" x="0.0" y="0.0" width="117" height="154"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="117" height="154"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="psb-4.png" translatesAutoresizingMaskIntoConstraints="NO" id="1AD-sZ-3eM">
+                        <rect key="frame" x="0.0" y="8" width="117" height="121"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="121" id="RtX-Gf-cyA"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="随笔感悟" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eeN-tk-uYI">
+                        <rect key="frame" x="0.0" y="139" width="117" height="13"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="13" id="uvO-eG-pSb"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="eeN-tk-uYI" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="D2G-rU-ZUu"/>
+                <constraint firstAttribute="trailing" secondItem="eeN-tk-uYI" secondAttribute="trailing" id="Efr-ky-Cw4"/>
+                <constraint firstItem="eeN-tk-uYI" firstAttribute="top" secondItem="1AD-sZ-3eM" secondAttribute="bottom" constant="10" id="Mfu-hN-kzR"/>
+                <constraint firstItem="1AD-sZ-3eM" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="8" id="QNZ-gM-Emk"/>
+                <constraint firstItem="1AD-sZ-3eM" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="enQ-ra-aq8"/>
+                <constraint firstAttribute="trailing" secondItem="1AD-sZ-3eM" secondAttribute="trailing" id="rPx-sQ-VdW"/>
+            </constraints>
+            <size key="customSize" width="117" height="164"/>
+            <connections>
+                <outlet property="coverImg" destination="1AD-sZ-3eM" id="pxg-cF-9Ca"/>
+                <outlet property="nameL" destination="eeN-tk-uYI" id="H9a-Ra-ccp"/>
+            </connections>
+            <point key="canvasLocation" x="58.5" y="109"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="psb-4.png" width="1068" height="800"/>
+    </resources>
+</document>

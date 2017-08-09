@@ -1,0 +1,24 @@
+{
+    "color": {
+        
+        "text": "#FFFFFF",
+        "nav": "#FFFFFF",
+        "theme":"#87CEFF"
+    
+        
+    },
+    "image": {
+        
+        "navImg": "ocevNav.png",
+        "tabImg": "ocen.png",
+        "tab1": "ocen-12.png",
+        "tabS1": "ocen-14.png",
+        "tab2": "ocen-13.png",
+        "tabS2": "ocen-15.png",
+        "tab3": "ocen-17.png",
+        "tabS3": "ocen-16.png",
+        "backImg":"cm4_app_background",
+        "billImg":"bill_img"
+    }
+
+}

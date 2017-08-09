@@ -1,0 +1,92 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Charts (3.0.2):
+    - Charts/Core (= 3.0.2)
+  - Charts/Core (3.0.2)
+  - DACircularProgress (2.3.1)
+  - HMSegmentedControl (1.5.3)
+  - IQKeyboardManager (3.3.7)
+  - LBBlurredImage (0.2.2)
+  - LPActionSheet (1.0)
+  - Masonry (0.6.4)
+  - MBProgressHUD (1.0.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - MobileVLCKit (2.2.2)
+  - MXPagerView (0.2.1)
+  - MXParallaxHeader (0.6.1)
+  - MXSegmentedPager (3.2.2):
+    - HMSegmentedControl (= 1.5.3)
+    - MXPagerView (= 0.2.1)
+    - MXParallaxHeader (= 0.6.1)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SSZipArchive (1.8.1)
+  - TMCache (2.1.0)
+  - TZImagePickerController (1.7.9)
+  - YYCategories (0.9.4):
+    - YYCategories/no-arc (= 0.9.4)
+  - YYCategories/no-arc (0.9.4)
+  - YYModel (0.9.12)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - Charts
+  - DACircularProgress (~> 2.3.1)
+  - IQKeyboardManager (~> 3.3.4)
+  - LBBlurredImage
+  - LPActionSheet (~> 1.0)
+  - Masonry (~> 0.6.3)
+  - MBProgressHUD (~> 1.0.0)
+  - MJExtension
+  - MJRefresh
+  - MobileVLCKit
+  - MXSegmentedPager
+  - SDWebImage (~> 3.7)
+  - SSZipArchive
+  - TMCache (~> 2.1.0)
+  - TZImagePickerController
+  - YYCategories (~> 0.9.4)
+  - YYModel (~> 0.9.12)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Charts: 236d6ccdd0ce6feae151d89e829a7397381a21fd
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  HMSegmentedControl: 7c6145afb50f26cec5f3243082f6f12b9f41318f
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  LBBlurredImage: 700634c17922bc2d22343118e7deb6a3ca12db43
+  LPActionSheet: 49fb9201e73f24f41adeb2a76773307d37ab0416
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MobileVLCKit: 75c2c36b0e3478c3f18cac3a2e7fa127cda0ff92
+  MXPagerView: ede184b5191b2ed689ccf05a750a9978cce42414
+  MXParallaxHeader: 858c403532ed933b381556a81ce333d7065ad182
+  MXSegmentedPager: e15df1e335bdc9d86c39eee1e6b5f7ef1a22d7c3
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SSZipArchive: 04547dfa448be5ed7ecbaf7eaf8a6e9eb9b42997
+  TMCache: 95ebcc9b3c7e90fb5fd8fc3036cba3aa781c9bed
+  TZImagePickerController: 0a8ff228d287ebdd7d485e8c42a2a932894f1fba
+  YYCategories: 3c7e012ac4573b1fc432f9a2eac15109857391d2
+  YYModel: 33a27f41a995f4c36ff8178421bac9f221a9c7ea
+
+PODFILE CHECKSUM: 1d74e3b7cb2858026917c500534283f706db75b1
+
+COCOAPODS: 1.3.0.beta.2

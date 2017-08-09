@@ -1,0 +1,22 @@
+{
+    "color": {
+        
+        "text": "#242424",
+        "nav": "#FFFFFF",
+        "theme":"#CD2626"
+
+    },
+    "image": {
+        "navImg": "cm2_topbar_bg.png",
+        "tabImg": "cm2_btm_bg.png.png",
+        "tab1": "cm2_btm_icn_account.png",
+        "tabS1": "cm2_btm_icn_account_prs.png",
+        "tab2": "cm2_btm_icn_discovery.png",
+        "tabS2": "cm2_btm_icn_discovery.png",
+        "tab3": "cm2_btm_icn_friend.png",
+        "tabS3": "cm2_btm_icn_friend_prs.png",
+        "backImg":"cm4_app_background",
+        "billImg":"bill_img"
+    }
+
+}
