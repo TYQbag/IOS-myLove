@@ -24,6 +24,26 @@
 		F8026AE61ED68B78007AA66A /* LoginToLoveViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F8026AD61ED68B78007AA66A /* LoginToLoveViewController.xib */; };
 		F8026AE81ED68B78007AA66A /* MainNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = F8026AE11ED68B78007AA66A /* MainNavigationController.m */; };
 		F8026AEC1ED68B7E007AA66A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F8026AEB1ED68B7E007AA66A /* AppDelegate.m */; };
+		F808FE361F3DAFAB00AB6C8D /* UIButton+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = F808FE351F3DAFAB00AB6C8D /* UIButton+Layout.m */; };
+		F808FE381F3DAFE000AB6C8D /* 加号2-fill.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE371F3DAFE000AB6C8D /* 加号2-fill.png */; };
+		F808FE4C1F3DAFFF00AB6C8D /* 交通s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE3A1F3DAFFF00AB6C8D /* 交通s.png */; };
+		F808FE4D1F3DAFFF00AB6C8D /* 医疗s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE3B1F3DAFFF00AB6C8D /* 医疗s.png */; };
+		F808FE4E1F3DAFFF00AB6C8D /* 娱乐s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE3C1F3DAFFF00AB6C8D /* 娱乐s.png */; };
+		F808FE4F1F3DAFFF00AB6C8D /* 孩子s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE3D1F3DAFFF00AB6C8D /* 孩子s.png */; };
+		F808FE501F3DAFFF00AB6C8D /* 宠物s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE3E1F3DAFFF00AB6C8D /* 宠物s.png */; };
+		F808FE511F3DAFFF00AB6C8D /* 工资s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE3F1F3DAFFF00AB6C8D /* 工资s.png */; };
+		F808FE521F3DAFFF00AB6C8D /* 支付s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE401F3DAFFF00AB6C8D /* 支付s.png */; };
+		F808FE531F3DAFFF00AB6C8D /* 数码s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE411F3DAFFF00AB6C8D /* 数码s.png */; };
+		F808FE541F3DAFFF00AB6C8D /* 旅行s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE421F3DAFFF00AB6C8D /* 旅行s.png */; };
+		F808FE551F3DAFFF00AB6C8D /* 服饰s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE431F3DAFFF00AB6C8D /* 服饰s.png */; };
+		F808FE561F3DAFFF00AB6C8D /* 游戏s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE441F3DAFFF00AB6C8D /* 游戏s.png */; };
+		F808FE571F3DAFFF00AB6C8D /* 礼物s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE451F3DAFFF00AB6C8D /* 礼物s.png */; };
+		F808FE581F3DAFFF00AB6C8D /* 社交s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE461F3DAFFF00AB6C8D /* 社交s.png */; };
+		F808FE591F3DAFFF00AB6C8D /* 租金s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE471F3DAFFF00AB6C8D /* 租金s.png */; };
+		F808FE5A1F3DAFFF00AB6C8D /* 话费s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE481F3DAFFF00AB6C8D /* 话费s.png */; };
+		F808FE5B1F3DAFFF00AB6C8D /* 购物s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE491F3DAFFF00AB6C8D /* 购物s.png */; };
+		F808FE5C1F3DAFFF00AB6C8D /* 零食s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE4A1F3DAFFF00AB6C8D /* 零食s.png */; };
+		F808FE5D1F3DAFFF00AB6C8D /* 餐饮s.png in Resources */ = {isa = PBXBuildFile; fileRef = F808FE4B1F3DAFFF00AB6C8D /* 餐饮s.png */; };
 		F80A1FE01ED50EC4007AD626 /* CHCardItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = F80A1FD61ED50EC4007AD626 /* CHCardItemModel.m */; };
 		F80A1FE11ED50EC4007AD626 /* CHCardItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = F80A1FD81ED50EC4007AD626 /* CHCardItemView.m */; };
 		F80A1FE21ED50EC4007AD626 /* CHCardView.m in Sources */ = {isa = PBXBuildFile; fileRef = F80A1FDA1ED50EC4007AD626 /* CHCardView.m */; };
@@ -161,26 +181,6 @@
 		F8F15B681F04AE56001CDDFE /* 购物.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B561F04AE56001CDDFE /* 购物.png */; };
 		F8F15B691F04AE56001CDDFE /* 零食.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B571F04AE56001CDDFE /* 零食.png */; };
 		F8F15B6A1F04AE56001CDDFE /* 餐饮.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B581F04AE56001CDDFE /* 餐饮.png */; };
-		F8F15B6D1F04C995001CDDFE /* UIButton+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = F8F15B6C1F04C995001CDDFE /* UIButton+Layout.m */; };
-		F8F15B851F04D66C001CDDFE /* 交通s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B731F04D66C001CDDFE /* 交通s.png */; };
-		F8F15B861F04D66C001CDDFE /* 租金s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B741F04D66C001CDDFE /* 租金s.png */; };
-		F8F15B871F04D66C001CDDFE /* 医疗s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B751F04D66C001CDDFE /* 医疗s.png */; };
-		F8F15B881F04D66C001CDDFE /* 娱乐s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B761F04D66C001CDDFE /* 娱乐s.png */; };
-		F8F15B891F04D66C001CDDFE /* 孩子s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B771F04D66C001CDDFE /* 孩子s.png */; };
-		F8F15B8A1F04D66C001CDDFE /* 宠物s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B781F04D66C001CDDFE /* 宠物s.png */; };
-		F8F15B8B1F04D66C001CDDFE /* 工资s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B791F04D66C001CDDFE /* 工资s.png */; };
-		F8F15B8C1F04D66C001CDDFE /* 话费s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B7A1F04D66C001CDDFE /* 话费s.png */; };
-		F8F15B8D1F04D66C001CDDFE /* 支付s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B7B1F04D66C001CDDFE /* 支付s.png */; };
-		F8F15B8E1F04D66C001CDDFE /* 数码s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B7C1F04D66C001CDDFE /* 数码s.png */; };
-		F8F15B8F1F04D66C001CDDFE /* 旅行s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B7D1F04D66C001CDDFE /* 旅行s.png */; };
-		F8F15B901F04D66C001CDDFE /* 服饰s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B7E1F04D66C001CDDFE /* 服饰s.png */; };
-		F8F15B911F04D66C001CDDFE /* 游戏s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B7F1F04D66C001CDDFE /* 游戏s.png */; };
-		F8F15B921F04D66C001CDDFE /* 礼物s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B801F04D66C001CDDFE /* 礼物s.png */; };
-		F8F15B931F04D66C001CDDFE /* 社交s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B811F04D66C001CDDFE /* 社交s.png */; };
-		F8F15B941F04D66C001CDDFE /* 购物s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B821F04D66C001CDDFE /* 购物s.png */; };
-		F8F15B951F04D66C001CDDFE /* 零食s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B831F04D66C001CDDFE /* 零食s.png */; };
-		F8F15B961F04D66C001CDDFE /* 餐饮s.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B841F04D66C001CDDFE /* 餐饮s.png */; };
-		F8F15B981F04D910001CDDFE /* 加号2-fill.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15B971F04D910001CDDFE /* 加号2-fill.png */; };
 		F8F15B9F1F04F037001CDDFE /* BroadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F8F15B9E1F04F037001CDDFE /* BroadViewController.m */; };
 		F8F15BA11F04F0D5001CDDFE /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = F8F15BA01F04F0D5001CDDFE /* libz.tbd */; };
 		F8F15BA31F04F0E2001CDDFE /* libbz2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = F8F15BA21F04F0E2001CDDFE /* libbz2.tbd */; };
@@ -285,6 +285,27 @@
 		F8026AEB1ED68B7E007AA66A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		F8026AEE1ED68BCF007AA66A /* AppConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppConstant.h; sourceTree = "<group>"; };
 		F8026AEF1ED68BCF007AA66A /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		F808FE341F3DAFAB00AB6C8D /* UIButton+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Layout.h"; sourceTree = "<group>"; };
+		F808FE351F3DAFAB00AB6C8D /* UIButton+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Layout.m"; sourceTree = "<group>"; };
+		F808FE371F3DAFE000AB6C8D /* 加号2-fill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "加号2-fill.png"; sourceTree = "<group>"; };
+		F808FE3A1F3DAFFF00AB6C8D /* 交通s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "交通s.png"; sourceTree = "<group>"; };
+		F808FE3B1F3DAFFF00AB6C8D /* 医疗s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "医疗s.png"; sourceTree = "<group>"; };
+		F808FE3C1F3DAFFF00AB6C8D /* 娱乐s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "娱乐s.png"; sourceTree = "<group>"; };
+		F808FE3D1F3DAFFF00AB6C8D /* 孩子s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "孩子s.png"; sourceTree = "<group>"; };
+		F808FE3E1F3DAFFF00AB6C8D /* 宠物s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "宠物s.png"; sourceTree = "<group>"; };
+		F808FE3F1F3DAFFF00AB6C8D /* 工资s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "工资s.png"; sourceTree = "<group>"; };
+		F808FE401F3DAFFF00AB6C8D /* 支付s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "支付s.png"; sourceTree = "<group>"; };
+		F808FE411F3DAFFF00AB6C8D /* 数码s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "数码s.png"; sourceTree = "<group>"; };
+		F808FE421F3DAFFF00AB6C8D /* 旅行s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "旅行s.png"; sourceTree = "<group>"; };
+		F808FE431F3DAFFF00AB6C8D /* 服饰s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "服饰s.png"; sourceTree = "<group>"; };
+		F808FE441F3DAFFF00AB6C8D /* 游戏s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "游戏s.png"; sourceTree = "<group>"; };
+		F808FE451F3DAFFF00AB6C8D /* 礼物s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "礼物s.png"; sourceTree = "<group>"; };
+		F808FE461F3DAFFF00AB6C8D /* 社交s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "社交s.png"; sourceTree = "<group>"; };
+		F808FE471F3DAFFF00AB6C8D /* 租金s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "租金s.png"; sourceTree = "<group>"; };
+		F808FE481F3DAFFF00AB6C8D /* 话费s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "话费s.png"; sourceTree = "<group>"; };
+		F808FE491F3DAFFF00AB6C8D /* 购物s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "购物s.png"; sourceTree = "<group>"; };
+		F808FE4A1F3DAFFF00AB6C8D /* 零食s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "零食s.png"; sourceTree = "<group>"; };
+		F808FE4B1F3DAFFF00AB6C8D /* 餐饮s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "餐饮s.png"; sourceTree = "<group>"; };
 		F80A1FD51ED50EC4007AD626 /* CHCardItemModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHCardItemModel.h; sourceTree = "<group>"; };
 		F80A1FD61ED50EC4007AD626 /* CHCardItemModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHCardItemModel.m; sourceTree = "<group>"; };
 		F80A1FD71ED50EC4007AD626 /* CHCardItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHCardItemView.h; sourceTree = "<group>"; };
@@ -483,27 +504,6 @@
 		F8F15B561F04AE56001CDDFE /* 购物.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "购物.png"; sourceTree = "<group>"; };
 		F8F15B571F04AE56001CDDFE /* 零食.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "零食.png"; sourceTree = "<group>"; };
 		F8F15B581F04AE56001CDDFE /* 餐饮.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "餐饮.png"; sourceTree = "<group>"; };
-		F8F15B6B1F04C995001CDDFE /* UIButton+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIButton+Layout.h"; path = "../../../Downloads/YLButton-master/YLButton/UIButton+Layout/UIButton+Layout.h"; sourceTree = "<group>"; };
-		F8F15B6C1F04C995001CDDFE /* UIButton+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIButton+Layout.m"; path = "../../../Downloads/YLButton-master/YLButton/UIButton+Layout/UIButton+Layout.m"; sourceTree = "<group>"; };
-		F8F15B731F04D66C001CDDFE /* 交通s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "交通s.png"; sourceTree = "<group>"; };
-		F8F15B741F04D66C001CDDFE /* 租金s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "租金s.png"; sourceTree = "<group>"; };
-		F8F15B751F04D66C001CDDFE /* 医疗s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "医疗s.png"; sourceTree = "<group>"; };
-		F8F15B761F04D66C001CDDFE /* 娱乐s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "娱乐s.png"; sourceTree = "<group>"; };
-		F8F15B771F04D66C001CDDFE /* 孩子s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "孩子s.png"; sourceTree = "<group>"; };
-		F8F15B781F04D66C001CDDFE /* 宠物s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "宠物s.png"; sourceTree = "<group>"; };
-		F8F15B791F04D66C001CDDFE /* 工资s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "工资s.png"; sourceTree = "<group>"; };
-		F8F15B7A1F04D66C001CDDFE /* 话费s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "话费s.png"; sourceTree = "<group>"; };
-		F8F15B7B1F04D66C001CDDFE /* 支付s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "支付s.png"; sourceTree = "<group>"; };
-		F8F15B7C1F04D66C001CDDFE /* 数码s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "数码s.png"; sourceTree = "<group>"; };
-		F8F15B7D1F04D66C001CDDFE /* 旅行s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "旅行s.png"; sourceTree = "<group>"; };
-		F8F15B7E1F04D66C001CDDFE /* 服饰s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "服饰s.png"; sourceTree = "<group>"; };
-		F8F15B7F1F04D66C001CDDFE /* 游戏s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "游戏s.png"; sourceTree = "<group>"; };
-		F8F15B801F04D66C001CDDFE /* 礼物s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "礼物s.png"; sourceTree = "<group>"; };
-		F8F15B811F04D66C001CDDFE /* 社交s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "社交s.png"; sourceTree = "<group>"; };
-		F8F15B821F04D66C001CDDFE /* 购物s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "购物s.png"; sourceTree = "<group>"; };
-		F8F15B831F04D66C001CDDFE /* 零食s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "零食s.png"; sourceTree = "<group>"; };
-		F8F15B841F04D66C001CDDFE /* 餐饮s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "餐饮s.png"; sourceTree = "<group>"; };
-		F8F15B971F04D910001CDDFE /* 加号2-fill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "加号2-fill.png"; path = "../../../../Downloads/加号2-fill.png"; sourceTree = "<group>"; };
 		F8F15B9D1F04F037001CDDFE /* BroadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BroadViewController.h; path = ../MainCenterCroller/BroadViewController.h; sourceTree = "<group>"; };
 		F8F15B9E1F04F037001CDDFE /* BroadViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BroadViewController.m; path = ../MainCenterCroller/BroadViewController.m; sourceTree = "<group>"; };
 		F8F15BA01F04F0D5001CDDFE /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
@@ -877,6 +877,31 @@
 			path = Define;
 			sourceTree = "<group>";
 		};
+		F808FE391F3DAFFF00AB6C8D /* billSelect */ = {
+			isa = PBXGroup;
+			children = (
+				F808FE3A1F3DAFFF00AB6C8D /* 交通s.png */,
+				F808FE3B1F3DAFFF00AB6C8D /* 医疗s.png */,
+				F808FE3C1F3DAFFF00AB6C8D /* 娱乐s.png */,
+				F808FE3D1F3DAFFF00AB6C8D /* 孩子s.png */,
+				F808FE3E1F3DAFFF00AB6C8D /* 宠物s.png */,
+				F808FE3F1F3DAFFF00AB6C8D /* 工资s.png */,
+				F808FE401F3DAFFF00AB6C8D /* 支付s.png */,
+				F808FE411F3DAFFF00AB6C8D /* 数码s.png */,
+				F808FE421F3DAFFF00AB6C8D /* 旅行s.png */,
+				F808FE431F3DAFFF00AB6C8D /* 服饰s.png */,
+				F808FE441F3DAFFF00AB6C8D /* 游戏s.png */,
+				F808FE451F3DAFFF00AB6C8D /* 礼物s.png */,
+				F808FE461F3DAFFF00AB6C8D /* 社交s.png */,
+				F808FE471F3DAFFF00AB6C8D /* 租金s.png */,
+				F808FE481F3DAFFF00AB6C8D /* 话费s.png */,
+				F808FE491F3DAFFF00AB6C8D /* 购物s.png */,
+				F808FE4A1F3DAFFF00AB6C8D /* 零食s.png */,
+				F808FE4B1F3DAFFF00AB6C8D /* 餐饮s.png */,
+			);
+			path = billSelect;
+			sourceTree = "<group>";
+		};
 		F80A1FD41ED50EC4007AD626 /* CHCardView */ = {
 			isa = PBXGroup;
 			children = (
@@ -1154,7 +1179,7 @@
 		F82D0A8C1ECEC74D00359E68 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				F8F15B721F04D66C001CDDFE /* billSelect */,
+				F808FE391F3DAFFF00AB6C8D /* billSelect */,
 				F8F15B461F04AE56001CDDFE /* bill */,
 				F8F46ED21EF760B300008750 /* default */,
 				F8C7B1C51EE7DC15004A12CB /* ocenS.png */,
@@ -1238,10 +1263,10 @@
 		F89D31FB1ED2C2B700EE1D76 /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				F808FE341F3DAFAB00AB6C8D /* UIButton+Layout.h */,
+				F808FE351F3DAFAB00AB6C8D /* UIButton+Layout.m */,
 				F89D32191ED2E01C00EE1D76 /* MBProgressHUD+UT.h */,
 				F89D321A1ED2E01C00EE1D76 /* MBProgressHUD+UT.m */,
-				F8F15B6B1F04C995001CDDFE /* UIButton+Layout.h */,
-				F8F15B6C1F04C995001CDDFE /* UIButton+Layout.m */,
 				F89D31FD1ED2C31400EE1D76 /* UIColor+Extension.h */,
 				F89D31FE1ED2C31400EE1D76 /* UIColor+Extension.m */,
 				F89D31FF1ED2C31400EE1D76 /* UILabel+StringFrame.h */,
@@ -1301,41 +1326,15 @@
 			path = bill;
 			sourceTree = "<group>";
 		};
-		F8F15B721F04D66C001CDDFE /* billSelect */ = {
-			isa = PBXGroup;
-			children = (
-				F8F15B731F04D66C001CDDFE /* 交通s.png */,
-				F8F15B741F04D66C001CDDFE /* 租金s.png */,
-				F8F15B751F04D66C001CDDFE /* 医疗s.png */,
-				F8F15B761F04D66C001CDDFE /* 娱乐s.png */,
-				F8F15B771F04D66C001CDDFE /* 孩子s.png */,
-				F8F15B781F04D66C001CDDFE /* 宠物s.png */,
-				F8F15B791F04D66C001CDDFE /* 工资s.png */,
-				F8F15B7A1F04D66C001CDDFE /* 话费s.png */,
-				F8F15B7B1F04D66C001CDDFE /* 支付s.png */,
-				F8F15B7C1F04D66C001CDDFE /* 数码s.png */,
-				F8F15B7D1F04D66C001CDDFE /* 旅行s.png */,
-				F8F15B7E1F04D66C001CDDFE /* 服饰s.png */,
-				F8F15B7F1F04D66C001CDDFE /* 游戏s.png */,
-				F8F15B801F04D66C001CDDFE /* 礼物s.png */,
-				F8F15B811F04D66C001CDDFE /* 社交s.png */,
-				F8F15B821F04D66C001CDDFE /* 购物s.png */,
-				F8F15B831F04D66C001CDDFE /* 零食s.png */,
-				F8F15B841F04D66C001CDDFE /* 餐饮s.png */,
-			);
-			name = billSelect;
-			path = ../../../Downloads/billSelect;
-			sourceTree = "<group>";
-		};
 		F8F46ED21EF760B300008750 /* default */ = {
 			isa = PBXGroup;
 			children = (
+				F808FE371F3DAFE000AB6C8D /* 加号2-fill.png */,
 				F826D3C81F189E3300AF35B0 /* pank.png */,
 				F81C49741F17679B00FF4FFD /* book.png */,
 				F81C496E1F17625200FF4FFD /* book1.png */,
 				F81C496F1F17625200FF4FFD /* book2.png */,
 				F81C49701F17625200FF4FFD /* book3.png */,
-				F8F15B971F04D910001CDDFE /* 加号2-fill.png */,
 				F89F98F91EF8F6CE000C256F /* cm4_app_background.png */,
 				F89F98FA1EF8F6CE000C256F /* cm4_app_background@2x.png */,
 				F89F98FB1EF8F6CE000C256F /* cm4_app_background@3x.png */,
@@ -1487,39 +1486,44 @@
 				F8CECC051ED433FF0005F4D0 /* timg-s2.png in Resources */,
 				F875CD6D1EE53D48007D0F73 /* timg-15.png in Resources */,
 				F8F15B651F04AE56001CDDFE /* 游戏.png in Resources */,
+				F808FE5B1F3DAFFF00AB6C8D /* 购物s.png in Resources */,
 				F89F98F61EF8BECD000C256F /* red.zip in Resources */,
 				F8F46EF21EF760B300008750 /* cm2_btm_icn_account_prs@2x.png in Resources */,
+				F808FE501F3DAFFF00AB6C8D /* 宠物s.png in Resources */,
 				F82AA4CE1EE14D4D0045D716 /* 吐舌.png in Resources */,
+				F808FE4F1F3DAFFF00AB6C8D /* 孩子s.png in Resources */,
 				F8F15B671F04AE56001CDDFE /* 社交.png in Resources */,
-				F8F15B8A1F04D66C001CDDFE /* 宠物s.png in Resources */,
-				F8F15B911F04D66C001CDDFE /* 游戏s.png in Resources */,
 				F82F0D8D1EF257BF00C21B5E /* default.json in Resources */,
-				F8F15B8F1F04D66C001CDDFE /* 旅行s.png in Resources */,
 				F8F46F011EF760B300008750 /* cm2_topbar_bg@2x.png in Resources */,
 				F8F46EFE1EF760B300008750 /* cm2_btm_icn_friend_prs@2x.png in Resources */,
 				F8F15B641F04AE56001CDDFE /* 服饰.png in Resources */,
 				F8332A291EE6A543002B7B98 /* Recommend-boutique@3x.png in Resources */,
 				F82AA4CF1EE14D4D0045D716 /* 眨眼.png in Resources */,
 				F8A460441ED28E2C001684F2 /* Images.xcassets in Resources */,
+				F808FE531F3DAFFF00AB6C8D /* 数码s.png in Resources */,
 				F89F98F81EF8F646000C256F /* ocen.zip in Resources */,
+				F808FE581F3DAFFF00AB6C8D /* 社交s.png in Resources */,
+				F808FE4D1F3DAFFF00AB6C8D /* 医疗s.png in Resources */,
 				F8C7B1CC1EE7F843004A12CB /* red.json in Resources */,
+				F808FE561F3DAFFF00AB6C8D /* 游戏s.png in Resources */,
 				F89F98FC1EF8F6CE000C256F /* cm4_app_background.png in Resources */,
 				F8CECC011ED41A150005F4D0 /* dayss.png in Resources */,
+				F808FE4E1F3DAFFF00AB6C8D /* 娱乐s.png in Resources */,
 				F82D0AE11ECEF32300359E68 /* timg-2.png in Resources */,
-				F8F15B961F04D66C001CDDFE /* 餐饮s.png in Resources */,
 				F82D0ABF1ECEE9D500359E68 /* psb-3.png in Resources */,
 				F8F15B631F04AE56001CDDFE /* 旅行.png in Resources */,
 				F8F15B5E1F04AE56001CDDFE /* 宠物.png in Resources */,
 				F8F46EEC1EF760B300008750 /* cm2_btm_bg@2x.png in Resources */,
 				F89F98FD1EF8F6CE000C256F /* cm4_app_background@2x.png in Resources */,
+				F808FE381F3DAFE000AB6C8D /* 加号2-fill.png in Resources */,
 				F8F46EF31EF760B300008750 /* cm2_btm_icn_account_prs@3x.png in Resources */,
-				F8F15B8B1F04D66C001CDDFE /* 工资s.png in Resources */,
+				F808FE571F3DAFFF00AB6C8D /* 礼物s.png in Resources */,
 				F8F15B5C1F04AE56001CDDFE /* 娱乐.png in Resources */,
 				F81C49731F17625200FF4FFD /* book3.png in Resources */,
+				F808FE5C1F3DAFFF00AB6C8D /* 零食s.png in Resources */,
 				F8F15B611F04AE56001CDDFE /* 支付.png in Resources */,
 				F875CD6E1EE53D48007D0F73 /* timg-14.png in Resources */,
 				F8F15B5D1F04AE56001CDDFE /* 孩子.png in Resources */,
-				F8F15B851F04D66C001CDDFE /* 交通s.png in Resources */,
 				F8F46F121EF79B8900008750 /* scanBack.png in Resources */,
 				F82D0AD41ECEEB6400359E68 /* psb-7.png in Resources */,
 				F8F46EF01EF760B300008750 /* cm2_btm_icn_account@3x.png in Resources */,
@@ -1531,16 +1535,15 @@
 				F8F15B5F1F04AE56001CDDFE /* 工资.png in Resources */,
 				F8F46EF81EF760B300008750 /* cm2_btm_icn_discovery_prs@2x.png in Resources */,
 				F8C7B1C21EE7DBFE004A12CB /* NBA.png in Resources */,
+				F808FE4C1F3DAFFF00AB6C8D /* 交通s.png in Resources */,
 				F8332A271EE6A543002B7B98 /* Recommend-boutique.png in Resources */,
 				F8F46EF91EF760B300008750 /* cm2_btm_icn_discovery_prs@3x.png in Resources */,
 				F8F46EFC1EF760B300008750 /* cm2_btm_icn_friend@3x.png in Resources */,
 				F8F15B5B1F04AE56001CDDFE /* 医疗.png in Resources */,
 				F875CD6F1EE53D48007D0F73 /* timg-13.png in Resources */,
 				F8C7B1CA1EE7F843004A12CB /* yiyang.json in Resources */,
-				F8F15B901F04D66C001CDDFE /* 服饰s.png in Resources */,
-				F8F15B8E1F04D66C001CDDFE /* 数码s.png in Resources */,
-				F8F15B861F04D66C001CDDFE /* 租金s.png in Resources */,
 				F8F15B6A1F04AE56001CDDFE /* 餐饮.png in Resources */,
+				F808FE5A1F3DAFFF00AB6C8D /* 话费s.png in Resources */,
 				F8F46EFF1EF760B300008750 /* cm2_btm_icn_friend_prs@3x.png in Resources */,
 				F8296F571F0B8FF700DF3A54 /* RemberCell.xib in Resources */,
 				F875CD6C1EE53D48007D0F73 /* timg-16.png in Resources */,
@@ -1553,19 +1556,18 @@
 				F81C49721F17625200FF4FFD /* book2.png in Resources */,
 				F8F15B5A1F04AE56001CDDFE /* 住房.png in Resources */,
 				F875CD761EE540FC007D0F73 /* timgsss.png in Resources */,
+				F808FE521F3DAFFF00AB6C8D /* 支付s.png in Resources */,
 				F8F46EED1EF760B300008750 /* cm2_btm_bg@3x.png in Resources */,
 				F8C7B1C61EE7DC15004A12CB /* ocenS.png in Resources */,
 				F8F15B681F04AE56001CDDFE /* 购物.png in Resources */,
 				F8A460461ED292E4001684F2 /* 11.png in Resources */,
 				F8F15B591F04AE56001CDDFE /* 交通.png in Resources */,
-				F8F15B941F04D66C001CDDFE /* 购物s.png in Resources */,
 				F82AA4CB1EE14D4D0045D716 /* 流汗.png in Resources */,
+				F808FE591F3DAFFF00AB6C8D /* 租金s.png in Resources */,
 				F8F15B691F04AE56001CDDFE /* 零食.png in Resources */,
 				F82AA4B91EE1332B0045D716 /* start.png in Resources */,
 				F82AA4C41EE147B50045D716 /* row@2x.png in Resources */,
 				F82AA4C51EE147B50045D716 /* row@3x.png in Resources */,
-				F8F15B8D1F04D66C001CDDFE /* 支付s.png in Resources */,
-				F8F15B921F04D66C001CDDFE /* 礼物s.png in Resources */,
 				F8F46EF11EF760B300008750 /* cm2_btm_icn_account_prs.png in Resources */,
 				F82AA4C31EE147B50045D716 /* row.png in Resources */,
 				F826D3C71F1895F300AF35B0 /* calcal1.png in Resources */,
@@ -1578,24 +1580,21 @@
 				F81C49751F17679B00FF4FFD /* book.png in Resources */,
 				F8F46EFD1EF760B300008750 /* cm2_btm_icn_friend_prs.png in Resources */,
 				F8332A281EE6A543002B7B98 /* Recommend-boutique@2x.png in Resources */,
-				F8F15B8C1F04D66C001CDDFE /* 话费s.png in Resources */,
-				F8F15B891F04D66C001CDDFE /* 孩子s.png in Resources */,
 				F82D0AC01ECEE9D500359E68 /* psb-4.png in Resources */,
 				F875CD731EE53E3E007D0F73 /* timggr.png in Resources */,
 				F8F46EF51EF760B300008750 /* cm2_btm_icn_discovery@2x.png in Resources */,
 				F8332A221EE6A131002B7B98 /* appStoreCell.xib in Resources */,
 				F8F15B601F04AE56001CDDFE /* 话费.png in Resources */,
-				F8F15B951F04D66C001CDDFE /* 零食s.png in Resources */,
 				F8F46EF61EF760B300008750 /* cm2_btm_icn_discovery@3x.png in Resources */,
 				F875CD581EE538F4007D0F73 /* timg-19.png in Resources */,
 				F8F15B661F04AE56001CDDFE /* 礼物.png in Resources */,
 				F8F46EFB1EF760B300008750 /* cm2_btm_icn_friend@2x.png in Resources */,
 				F8C7B1C41EE7DC03004A12CB /* yiyang.png in Resources */,
+				F808FE5D1F3DAFFF00AB6C8D /* 餐饮s.png in Resources */,
+				F808FE541F3DAFFF00AB6C8D /* 旅行s.png in Resources */,
 				F8F46F021EF760B300008750 /* cm2_topbar_bg@3x.png in Resources */,
 				F8F46EEE1EF760B300008750 /* cm2_btm_icn_account.png in Resources */,
-				F8F15B931F04D66C001CDDFE /* 社交s.png in Resources */,
 				F82D0ADD1ECEEE4100359E68 /* timg.png in Resources */,
-				F8F15B881F04D66C001CDDFE /* 娱乐s.png in Resources */,
 				F8026AE61ED68B78007AA66A /* LoginToLoveViewController.xib in Resources */,
 				F8332A2D1EE6A869002B7B98 /* selected.png in Resources */,
 				F826D3C91F189E3300AF35B0 /* pank.png in Resources */,
@@ -1605,10 +1604,10 @@
 				F8CECC081ED438490005F4D0 /* timg-10.png in Resources */,
 				F875CD6B1EE53D48007D0F73 /* timg-17.png in Resources */,
 				F8332A2E1EE6A869002B7B98 /* selected@2x.png in Resources */,
+				F808FE511F3DAFFF00AB6C8D /* 工资s.png in Resources */,
+				F808FE551F3DAFFF00AB6C8D /* 服饰s.png in Resources */,
 				F89F98FE1EF8F6CE000C256F /* cm4_app_background@3x.png in Resources */,
-				F8F15B871F04D66C001CDDFE /* 医疗s.png in Resources */,
 				F8CECBF21ED3CAAC0005F4D0 /* icon_leftArrow_white@2x.png in Resources */,
-				F8F15B981F04D910001CDDFE /* 加号2-fill.png in Resources */,
 				F82D0AC31ECEEA2700359E68 /* psb-21.png in Resources */,
 				F8332A2F1EE6A869002B7B98 /* selected@3x.png in Resources */,
 				F8CECC091ED438490005F4D0 /* timg-11.png in Resources */,
@@ -1822,8 +1821,8 @@
 				F8026AE21ED68B78007AA66A /* CommViewController.m in Sources */,
 				F826D3C11F186C8100AF35B0 /* BookView.m in Sources */,
 				F82AA4BF1EE1418C0045D716 /* detailView.m in Sources */,
-				F8F15B6D1F04C995001CDDFE /* UIButton+Layout.m in Sources */,
 				F8026AE81ED68B78007AA66A /* MainNavigationController.m in Sources */,
+				F808FE361F3DAFAB00AB6C8D /* UIButton+Layout.m in Sources */,
 				F8296F561F0B8FF700DF3A54 /* RemberCell.m in Sources */,
 				F81C49611F17131600FF4FFD /* ZLPhotoPickerCustomToolBarView.m in Sources */,
 				F81C495D1F17131600FF4FFD /* ZLPhotoPickerBrowserViewController.m in Sources */,
